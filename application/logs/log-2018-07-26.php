@@ -1,0 +1,130 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-26 12:34:56 --> 404 Page Not Found: Fuerza/index
+ERROR - 2018-07-26 12:35:02 --> 404 Page Not Found: Fuerzatextos/index
+ERROR - 2018-07-26 12:37:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:37:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:37:57 --> 404 Page Not Found: Fuerzatextos/index
+ERROR - 2018-07-26 12:38:12 --> 404 Page Not Found: Fuerzatextos/index
+ERROR - 2018-07-26 12:39:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:39:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:39:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:39:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:45:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:45:57 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:45:58 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:45:59 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined property: stdClass::$nombre C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 14
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined property: stdClass::$url C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 15
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined property: stdClass::$estatus C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 16
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 16
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined property: stdClass::$estatus C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 16
+ERROR - 2018-07-26 12:46:16 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_fuerzatextos.php 16
+ERROR - 2018-07-26 12:46:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:46:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:46:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:46:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:46:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:46:44 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:47:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:47:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:47:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:47:13 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:47:19 --> 404 Page Not Found: Fuerza/editar
+ERROR - 2018-07-26 12:48:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:48:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:48:35 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:48:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:48:42 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:48:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:48:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:48:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:49:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:13 --> 404 Page Not Found: Fuerza/editar
+ERROR - 2018-07-26 12:49:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:49:35 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:49:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:50:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 12:50:21 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:50:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 12:50:23 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:47:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:47:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:47:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:47:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:47:40 --> 404 Page Not Found: Fuerzafotos/index
+ERROR - 2018-07-26 13:53:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:53:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:53:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:53:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:54:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:54:11 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:54:11 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:54:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:56:42 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:42 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:56:47 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:56:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:59:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 13:59:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:59:32 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 13:59:32 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:01:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 17:01:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:01:05 --> Severity: Notice --> Undefined variable: categorias C:\xampp\htdocs\Colosa\master\application\views\logos.php 118
+ERROR - 2018-07-26 17:01:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\Colosa\master\application\views\logos.php 118
+ERROR - 2018-07-26 17:01:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 17:01:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:01:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:01:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:02:27 --> Severity: Notice --> Undefined variable: categorias C:\xampp\htdocs\Colosa\master\application\views\logos.php 118
+ERROR - 2018-07-26 17:02:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\Colosa\master\application\views\logos.php 118
+ERROR - 2018-07-26 17:02:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 17:02:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:02:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:02:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-26 17:04:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:04:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:04:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:14:50 --> 404 Page Not Found: Assets/images
+ERROR - 2018-07-26 17:20:47 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:20:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:37:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:37:21 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:37:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:37:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:49:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-26 17:49:40 --> 404 Page Not Found: Assets/css

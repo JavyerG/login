@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-03 11:24:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:24:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:28:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:28:11 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:30:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:30:57 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:57:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 11:57:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:30:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:30:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:34:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:34:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:34:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:34:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:35:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:35:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:35:53 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:35:53 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:36:52 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:36:52 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:37:01 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:37:01 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:37:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:37:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:47:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 12:47:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 13:02:09 --> 404 Page Not Found: Proyectos/index
+ERROR - 2018-08-03 13:02:16 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 13:02:16 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 13:04:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 13:04:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-03 13:17:01 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-03 13:17:16 --> 404 Page Not Found: Assets/images

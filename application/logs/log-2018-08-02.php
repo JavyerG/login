@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-08-02 16:40:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:40:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:40:58 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:40:58 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:41:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:41:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:47:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:47:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:47:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:47:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:48:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:48:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:49:41 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:49:41 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:50:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:50:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:51:50 --> 404 Page Not Found: Proyectos/index
+ERROR - 2018-08-02 16:52:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:52:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:52:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:52:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:53:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:53:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:53:33 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:53:33 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:35 --> 404 Page Not Found: Assets/css
+ERROR - 2018-08-02 16:55:35 --> 404 Page Not Found: Assets/css

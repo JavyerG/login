@@ -1,0 +1,234 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-24 11:50:25 --> 404 Page Not Found: Colosa%20Web/master
+ERROR - 2018-07-24 11:50:34 --> 404 Page Not Found: Colosa%20Web/master
+ERROR - 2018-07-24 12:05:28 --> Severity: Notice --> Undefined property: stdClass::$nombre C:\xampp\htdocs\Colosa\master\application\controllers\Usuario.php 42
+ERROR - 2018-07-24 12:05:30 --> Severity: Notice --> Undefined property: stdClass::$nombre C:\xampp\htdocs\Colosa\master\application\controllers\Usuario.php 42
+ERROR - 2018-07-24 12:05:39 --> Severity: Notice --> Undefined property: stdClass::$nombre C:\xampp\htdocs\Colosa\master\application\controllers\Usuario.php 42
+ERROR - 2018-07-24 12:06:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:06:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:07:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:07:03 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:47:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:47:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Undefined variable: galeria C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Undefined variable: galeria C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:35 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:47:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:47:37 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:48:15 --> Severity: Notice --> Undefined variable: galeria C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:15 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:48:17 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:48:27 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:27 --> Severity: Notice --> Undefined variable: galeria C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:27 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:27 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\Colosa\master\application\views\tabla_redes.php 16
+ERROR - 2018-07-24 12:48:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:48:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:49:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:49:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:51:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:51:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:52:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:52:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:54:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:54:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:55:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:55:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 12:56:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 12:56:41 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:00:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:00:16 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:01:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:01:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:01:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:01:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:03:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:03:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:03:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:04:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:04:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:04:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:04:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:08:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:08:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:08:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:08:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:10:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:10:17 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:10:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:10:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:10:42 --> Query error: Table 'colosa.variables' doesn't exist - Invalid query: SELECT *
+FROM `variables`
+ERROR - 2018-07-24 13:19:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:19:50 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:20:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:20:14 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:20:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:20:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:22:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:22:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:22:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:13 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:24:14 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:24:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:24:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:24:48 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:25:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:25:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:25:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:25:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:26:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:26:17 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:26:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:26:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:26:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:28:38 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:29:21 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:29:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:35 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:29:35 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:38:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:23 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:23 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:38:52 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:53 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:38:53 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:39:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:39:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:39:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:39:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:48:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:48:18 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:48:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:48:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:49:03 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:49:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:49:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:50 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:49:50 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:49:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:52:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:52:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:52:52 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:52:52 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:54:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:54:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:54:47 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:57:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 13:57:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:57:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 13:57:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:33:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 16:33:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:33:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 16:33:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:33:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:33:15 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:34:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 16:34:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:34:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 16:34:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:01:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:01:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:11 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:01:11 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:03:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:03:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:03:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:03:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:10:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:10:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:10:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:10:07 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:14:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:14:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:14:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:14:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:18:31 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:32 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:33 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:18:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:43 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:18:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:50 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:18:50 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:23:21 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:23:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:23:44 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:23:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:41:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:41:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:41:37 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:41:37 --> 404 Page Not Found: Assets/css
+ERROR - 2018-07-24 17:41:50 --> Query error: Table 'colosa.categorias' doesn't exist - Invalid query: SELECT *
+FROM `categorias`
+ERROR - 2018-07-24 17:41:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-07-24 17:41:53 --> 404 Page Not Found: Assets/css
